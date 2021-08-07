@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241786646427",
+    "project_id": "closecall-71640",
+    "storage_bucket": "closecall-71640.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241786646427:android:587bb1dc3cbc52660a3b3e",
+        "android_client_info": {
+          "package_name": "com.example.closecall_safety_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241786646427-j7nl39em7i6cfaaeu4cavu2l62a3nmb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAX7uocHbJi-8jsWI7JMRAN5Ko5nLNL94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241786646427-j7nl39em7i6cfaaeu4cavu2l62a3nmb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

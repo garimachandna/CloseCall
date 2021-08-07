@@ -1,0 +1,63 @@
+name: closecall_safety_app
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.3
+  font_awesome_flutter: ^9.1.0
+  flutter_svg: ^0.22.0
+
+
+  firebase_core: ^1.4.0
+  firebase_auth: ^3.0.1
+  cloud_firestore: ^2.4.0
+  modal_progress_hud: ^0.1.3
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/Rectangle 12.png
+    - assets/images/closecall-logo.png
+    - assets/images/undraw_unlock_24mb (1).svg
+
+  fonts:
+     - family: Raleway
+       fonts:
+         - asset: assets/fonts/Raleway-Medium.ttf
+         - asset: assets/fonts/Raleway-Regular.ttf
+         - asset: assets/fonts/Raleway-ExtraLight.ttf
+           style: italic
+     - family: SpartanMB
+       fonts:
+         - asset: assets/fonts/SpartanMB-Black.otf
+           style: italic
+
+     - family: Montserrat
+       fonts:
+         - asset: assets/fonts/Montserrat-Bold.ttf       
+         - asset: assets/fonts/Montserrat-Regular.ttf   
+            
+     - family: Pacifico
+       fonts:
+         - asset: assets/fonts/Pacifico-Regular.ttf       
+ 
