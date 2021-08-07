@@ -1,4 +1,4 @@
-# closecall_safety_app
+# closecall
 
 A new Flutter project.
 
